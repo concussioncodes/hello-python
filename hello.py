@@ -1,2 +1,3 @@
-def isFunction():
-  pass
+var = "Hello, Juma
+def isFunction(var):
+  print(var)
