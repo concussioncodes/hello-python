@@ -1,3 +1,3 @@
-var = "Hello, Juma
+var = "Hello, Juma"
 def isFunction(var):
   print(var)
